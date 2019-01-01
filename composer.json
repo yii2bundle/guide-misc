@@ -1,0 +1,13 @@
+{
+	"name": "yii2bundle/guide-misc",
+	"type": "guide",
+	"keywords": ["guide","misc"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yamshikov Vitaliy",
+			"email": "theyamshikov@yandex.ru"
+		}
+	],
+	"minimum-stability": "dev"
+}
